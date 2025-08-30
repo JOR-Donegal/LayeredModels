@@ -12,6 +12,6 @@ When a node joins a network, it keeps its layer 2 (Ethernet) address, but it is 
 
 We _encapsulate_ the IP packet as the data field in the Ethernet frame and we use the Ethernet frame to transport the packet around the local network. To get to another network, the Ethernet frame has to terminate in a _router_, a device which routes packets at layer 3. The router strips the Ethernet frame off and forwards the IP packet to the next nearest router to its destination. The links between routers may be Ethernet or some other layer 2 protocol. We don’t care; layer 2 is how the devices communicate with each other locally only. The layer 3 packet is passed from router to router until it gets to its destination network.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 To secure a network subnet at layer 3, we use a router with _Access Control Lists_ (ACLs) or we can use a _firewall_.
