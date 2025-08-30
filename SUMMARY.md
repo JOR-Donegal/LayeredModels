@@ -6,3 +6,6 @@
 * [Layer 3](layer-3.md)
 * [Layer 4](layer-4/README.md)
   * [TCP](layer-4/tcp.md)
+  * [UDP](layer-4/udp.md)
+  * [Ports](layer-4/ports.md)
+  * [Security](layer-4/security.md)
