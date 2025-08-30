@@ -8,6 +8,6 @@ Many network applications do not require reliable host to host communications. F
 
 UDP is encapsulated in the IP packet.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 We use this type of unreliable protocol for services like DNS and SYSLOG.

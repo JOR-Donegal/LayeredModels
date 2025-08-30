@@ -10,6 +10,6 @@ TCP also includes a flow control mechanism. We could send just one packet and wa
 
 TCP is encapsulated in the IP packet.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 It is very important that you understand the concept of _encapsulation_.
